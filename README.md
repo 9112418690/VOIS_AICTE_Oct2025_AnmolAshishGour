@@ -39,7 +39,7 @@ The aim is to apply **Data Science & Machine Learning** techniques to explore an
 
 1. Clone this repository  
    ```bash
-   git clone 
+   git clone https://github.com/9112418690/VOIS_AICTE_Oct2025_AnmolAshishGour.git
    cd VOIS_AICTE_Oct2025
 
 🏆 Results & Insights
@@ -55,6 +55,7 @@ Some hosts own a large share of total listings
 ✨ Author
 
 👨‍💻 Anmol Ashish Gour
+
 📧 gouranmol7276@gmail.com
 
 
