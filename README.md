@@ -1,0 +1,62 @@
+<h1 align="center">✨ VOIS_AICTE_Oct2025 ✨</h1>
+<h2 align="center">Anmol Ashish Gour</h2>
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Airbnb_Logo_Bélo.svg" width="150"/>
+</p>
+
+# VOIS_AICTE_Oct2025_AnmolAshishGour 
+
+## 🌟 Project Overview  
+This project analyzes **Airbnb Open Data** to uncover insights about:  
+- Property types  
+- Neighbourhood trends  
+- Host behaviors  
+- Pricing strategies  
+- Review ratings  
+
+The aim is to apply **Data Science & Machine Learning** techniques to explore and visualize the dataset for actionable insights
+
+## 📊 Key Features  
+✔️ Cleaned and pre-processed raw Airbnb data  
+✔️ Detailed **Exploratory Data Analysis (EDA)** with visualizations  
+✔️ Insights into host verification, reviews, availability, and pricing  
+✔️ Automated **summary report generation**  
+✔️ Ready-to-use **Google Colab Notebook**  
+
+## 🛠️ Tech Stack  
+- **Python 3.10+**  
+- **Pandas, NumPy** → Data handling  
+- **Matplotlib, Seaborn** → Visualizations  
+- **Scikit-learn** → Data preprocessing  
+- **Google Colab** → Execution environment  
+
+## 📂 Dataset  
+- **Name:** `Airbnb_Open_Data.xlsx`  
+- **Source:** Provided dataset for VOIS AICTE Project
+
+## 🚀 How to Run  
+
+1. Clone this repository  
+   ```bash
+   git clone 
+   cd VOIS_AICTE_Oct2025
+
+🏆 Results & Insights
+
+Most listings are concentrated in a few neighbourhoods
+
+Verified hosts generally have stronger reputations
+
+Higher prices often correlate with higher service fees
+
+Some hosts own a large share of total listings
+
+✨ Author
+
+👨‍💻 Anmol Ashish Gour
+📧 gouranmol7276@gmail.com
+
+
+
+<p align="center">🚀 Made with ❤️ for VOIS AICTE Oct 2025</p> 
